@@ -25,4 +25,4 @@ Kampus  : Universitas Islam Balitar
 - Pertemuan 1 : [Codepen](https://codepen.io/collection/mrpQWw)
 - Pertemuan 2&3 : [Codepen](https://codepen.io/collection/LPrEyN)
 - Pertemuan 4 : [Codepen](https://codepen.io/collection/xKpmNj)
-- Pertemuan 5 : [Codepen]()
+- Pertemuan 5 :
